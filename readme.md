@@ -1,5 +1,5 @@
 branch-many-people
- add bb aa 
+ add bb fix修复bug.... 
 gpl
 Git has a mutable index called stage.
 modified 1
